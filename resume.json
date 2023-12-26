@@ -47,16 +47,19 @@
     {
       "skill_name": "HTML 和 CSS",
       "skill_desc": "掌握 HTML5、CSS3 的基本使用以及常用的响应式布局的最佳实践",
+      "skill_level": null,
       "dataIndex": 1
     },
     {
       "skill_name": "TypeScript / JavaScript",
+      "skill_level": null,
       "dataIndex": 2,
       "skill_desc": "了解 ES6 新特性，对 Javascript 中闭包、函数式编程等概念有清晰的认知"
     },
     {
       "skill_name": "React / 前端工程化",
       "skill_desc": "掌握React框架，拥有大型前端项目经验以及组件库开发经验",
+      "skill_level": null
     }
   ],
   "projectList": [
@@ -69,7 +72,7 @@
       "dataIndex": 0
     },
     {
-      "project_name": "GauthMath",
+      "project_name": "GauthMath 高斯数学",
       "project_role": "核心开发者",
       "project_time": "2022.07 - 至今",
       "project_desc": "海外业务，提供数学学科的拍搜、解题、答疑服务。高斯数学业务可以分为五个部分：gauth-math app（主要是基于 lynx 跨端开发）、gauth math官网（使用 nextjs 开发）、gauth expert app（使用 h5 开发），以及运营中后台。",
